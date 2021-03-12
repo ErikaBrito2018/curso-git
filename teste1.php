@@ -1,2 +1,2 @@
 <?php
-//aqui começa a brincadeira
+//aqui começa a brncadeira
